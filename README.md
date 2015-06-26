@@ -1,2 +1,2 @@
 # TinyNote
-REST API based lightweight Note Taking Web App
+REST API based Twitter-like collaborative Note Taking Web App
